@@ -3,3 +3,14 @@ Projek ini adalah projek sederhana yang akan menunjukkan berbagai cara menampilk
 
 ## Original
 sintaks `print("Hello World")`. Sederhana, langsung muncul.
+
+## Function
+sintaks:  
+```python
+def function():
+    print("Hello world")
+
+def fungsi():
+    return "Hello world"
+```
+Agak ribet, tapi oke lah.
